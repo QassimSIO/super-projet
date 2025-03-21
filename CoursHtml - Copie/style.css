@@ -1,5 +1,10 @@
 body {
-  background: rgb(211, 12, 12);
+  background: rgb(136, 108, 108);
+}
+
+.nav ul {
+  display: flex;
+  justify-content: space-around;
 }
 
 .tableau {
